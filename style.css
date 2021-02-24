@@ -11,6 +11,10 @@ body {
   align-items: center;
 }
 
+h1 {
+  text-align: center;
+}
+
 header {
   display: flex;
   justify-content: flex-end;
